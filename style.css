@@ -1,0 +1,50 @@
+body{
+    margin:0;
+    font-family:arial;
+    background-color:#eef5ff;
+}
+header{
+    text-align: center;
+    background-color: #1565e0;
+    color: white;
+    padding: 15px;
+}
+nav{
+    text-align:center;
+    background-color: #0d47a1;
+    padding: 10px;
+}
+nav a{
+    color:white;
+    text-decoration: none;
+    margin: 10px;
+}
+.content{
+    width:70%;
+    margin: 25px auto;
+    padding: 20px;
+    background-color: white;
+}
+.product{
+   margin: 15px 0;
+   height: 100px;
+   object-fit: cover;
+}
+.button{
+    display: inline-block;
+    padding: 8px 15px;
+    background-color: #1565c0;
+}
+footer{
+    text-align: center;
+    padding:10px;
+    background-color: #0d0d0d;
+    color: white;
+}
+.message{
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #dff0d8;
+    color: green;
+    text-align: center;
+}
